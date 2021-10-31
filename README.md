@@ -1,6 +1,7 @@
 # flutter_rave
 
-A new Flutter project.
+A repository for a medium article showcasing how to implement payment with Flutterwave in your Flutter application. 
+https://adeogooladipo.medium.com/implementing-rave-from-flutterwave-with-flutter-928adebab42a
 
 ## Getting Started
 
